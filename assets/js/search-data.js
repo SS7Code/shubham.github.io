@@ -479,13 +479,6 @@ ninja.data = [{
           window.open("mailto:%73%68%61%72%6D%61.%73%68%75%62%68%61%6D.%6D%61%69%6C%62%6F%78@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -497,7 +490,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-sharma-iisc/", "_blank");
+          window.open("https://www.linkedin.com/in/shubham-sharma-iisc", "_blank");
         },
       },{
         id: 'social-spotify',
