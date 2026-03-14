@@ -500,6 +500,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-sharma-iisc/", "_blank");
         },
       },{
+        id: 'social-spotify',
+        title: 'Spotify',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://open.spotify.com/user/31qesvn5im32l44ghlcqmytblcze", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
