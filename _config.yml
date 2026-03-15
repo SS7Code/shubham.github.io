@@ -11,7 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the personal website of Shubham Sharma, currently a Senior Research Engineer at SST India Pvt. Ltd. I finished my PhD from IISc Bengaluru. My research interests include computational mechanics, fracture mechanics and finite element method.
 keywords: shubham, shubham sharma, IISc, Structural Engineering, PhD, Civil Engineering, Computational Mechanics, Fracture Mechanics, virtual element method # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: "website_icon" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: "website_icon.ico" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://shubhamsharma.site # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
