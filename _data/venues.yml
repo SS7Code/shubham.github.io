@@ -5,5 +5,17 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"JAM":
+  url: https://asmedigitalcollection.asme.org/appliedmechanics
+
+"FINEL":
+  url: https://www.sciencedirect.com/journal/finite-elements-in-analysis-and-design
+
+"Composite Structures":
+  url: https://www.sciencedirect.com/journal/composite-structures
+
+"Ph.D. Thesis":
+  url: https://etd.iisc.ac.in/
+
 "Vision":
   color: "#009f36"
